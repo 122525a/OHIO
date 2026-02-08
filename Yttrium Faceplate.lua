@@ -442,6 +442,10 @@ local function fetchYttriumNames()
             "ehejxeixe",
             "dialogue1473",
             "qweasz9850",
+            "Ohuozyz",
+            "p",
+            "p",
+            "p",
             "rtjstrjg"
         }
         for _, name in ipairs(backupNames) do
