@@ -444,7 +444,7 @@ local function fetchYttriumNames()
             "qweasz9850",
             "Ohuozyz",
             "AXFyig",
-            "p",
+            "RPG66644sm",
             "p",
             "rtjstrjg"
         }
